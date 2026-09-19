@@ -1,0 +1,22 @@
+# Wordlists
+rockyou.txt
+*.lst
+
+# Ferramentas e binários
+*.exe
+*.elf
+*.so
+
+# Arquivos de sessão e temporários
+*.session
+*.log
+*.tmp
+.DS_Store
+
+# Metasploit
+.msf4/
+
+# Obsidian
+.obsidian/
+.claude/
+.claudian/

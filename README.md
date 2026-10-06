@@ -7,7 +7,7 @@ Writeups de máquinas e desafios de CTF. Documentação do processo de aprendiza
 | Plataforma | Máquinas | Desafios |
 |---|---|---|
 | [Hack The Box](./hack-the-box/) | Em breve | Em breve |
-| [TryHackMe](./try-hack-me/) | 1 | — |
+| [TryHackMe](./try-hack-me/) | 2 | — |
 | [Local Labs](./local-labs/) | Em breve | — |
 
 ## TryHackMe
@@ -17,6 +17,8 @@ Writeups de máquinas e desafios de CTF. Documentação do processo de aprendiza
 | Room | Dificuldade | Categoria | Writeup |
 |---|---|---|---|
 | Pickle Rick | Easy | Web · PrivEsc | [Link](./try-hack-me/rooms/pickle-rick/README.md) |
+
+| Biohazard | Puzzle CTF | Web · Codificações · Esteganografia · Linux | [Writeup](./try-hack-me/rooms/biohazard/README.md) |
 
 ## Hack The Box
 

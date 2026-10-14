@@ -249,4 +249,9 @@ Também ficou uma lição prática sobre interpretar a saída completa. A falha 
 
 Essas são recomendações decorrentes da resolução; nenhuma alteração defensiva foi aplicada ao alvo durante a sessão documentada.
 
+---
+
+*Por [Nicolas Henrique](https://github.com/nicolashenrique-dev). Room: [Biohazard](https://tryhackme.com/room/biohazard).*
+
+
 

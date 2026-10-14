@@ -251,7 +251,7 @@ Essas são recomendações decorrentes da resolução; nenhuma alteração defen
 
 ---
 
-*Por [Nicolas Henrique](https://github.com/nicolashenrique-dev). Room: [Biohazard](https://tryhackme.com/room/biohazard).*
+*Por [Nicolas Henrique](https://github.com/nicolashenrique-dev). Room: [Attacktive Directory](https://tryhackme.com/room/attacktivedirectory).*
 
 
 

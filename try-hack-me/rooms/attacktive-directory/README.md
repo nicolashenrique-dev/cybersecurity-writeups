@@ -249,8 +249,4 @@ Também ficou uma lição prática sobre interpretar a saída completa. A falha 
 
 Essas são recomendações decorrentes da resolução; nenhuma alteração defensiva foi aplicada ao alvo durante a sessão documentada.
 
-## Sobre os registros
 
-A reconstrução usa `nmap.txt`, `kerbrute.txt`, `valid_users.txt`, `hashes.txt`, `backup_credentials.txt`, `secrets.txt` e `logs.txt`. O arquivo `typescript` contém muitos bytes nulos e apenas um trecho final aproveitável; o histórico principal está em `logs.txt`.
-
-Não havia screenshots na pasta recebida. Os resultados apresentados acima foram transcritos dos arquivos, sem criar capturas ou etapas que não aconteceram. A chamada do Kerbrute e a decodificação Base64 foram reconstruídas explicitamente; a navegação para as flags foi abreviada com caminhos completos.
